@@ -1,3 +1,4 @@
 git clone https://github.com/cabralfilho/zm.git
-chmod 755 zm install.sh
+cd zm &&
+chmod 755  install.sh &&
 ./zm install.sh
